@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; lili enseling</title>
+	<atom:link href="https://lenseling.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lenseling.github.io/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Nov 2023 02:56:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Quickly Site Redesign</title>
+		<link>https://lenseling.github.io/hello-world/</link>
+					<comments>https://lenseling.github.io/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[liliyang]]></dc:creator>
+		<pubDate>Sat, 28 Oct 2023 03:09:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://lenseling.github.io/?p=1</guid>
+
+					<description><![CDATA[In this project, I recreated an existing website in Figma, addressing key pain points and making at least three design improvements. I provided two views of the site, allowing navigation between them using prototyping, and included both mobile and desktop versions for a comprehensive redesign. The main changes are:]]></description>
+										<content:encoded><![CDATA[
+<p>In this project, I recreated an <a href="https://www.quicklychapelhill.com/">existing website</a> in Figma, addressing key pain points and making at least three design improvements. </p>
+
+
+
+<p>I provided two views of the site, allowing navigation between them using prototyping, and included both mobile and desktop versions for a comprehensive redesign.</p>
+
+
+
+<p>The main changes are:</p>
+
+
+
+<ul>
+<li>Removed carousel, changed it into a still background with text overlay</li>
+
+
+
+<li>Added boxes to menu items to add color contrast</li>
+
+
+
+<li>Moved button from Specials page to home page</li>
+
+
+
+<li>Used actual text for the specials rather than an image for accessibility</li>
+
+
+
+<li>Added black stroke to text for better contrast</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenseling.github.io/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
