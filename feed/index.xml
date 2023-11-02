@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>lili enseling</title>
+	<atom:link href="https://lenseling.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lenseling.github.io/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Nov 2023 13:47:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://lenseling.github.io/wp-content/uploads/2023/11/Screenshot-2023-11-02-012459-50x50.png</url>
+	<title>lili enseling</title>
+	<link>https://lenseling.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Last Frontiers: HTML and CSS</title>
+		<link>https://lenseling.github.io/last-frontiers-html-and-css/</link>
+					<comments>https://lenseling.github.io/last-frontiers-html-and-css/#respond</comments>
+		
+		<dc:creator><![CDATA[liliyang]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 13:47:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://lenseling.github.io/?p=150</guid>
+
+					<description><![CDATA[Introduction In this project, I tackled the challenge of making a user-friendly and responsive website, emphasizing HTML and CSS execution. Figma Wireframe lastfrontiers.com Process I established a strong foundation through wireframing and comprehensive color layout, and adopted a mobile-first approach, optimizing for desktop with media queries. I also incorporated embedded videos and audio clips to [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">Introduction</h4>
+
+
+
+<p>In this project, I tackled the challenge of making a user-friendly and responsive website, emphasizing HTML and CSS execution.</p>
+
+
+
+<p><a href="https://www.figma.com/file/7Hmb6vLz3NQUFJkodOJWDL/enseling_lili_p1?type=design&amp;t=vRdrqohbaQYLcPJE-6">Figma Wireframe</a></p>
+
+
+
+<p><a href="https://lastfrontiers.000webhostapp.com/">lastfrontiers.com</a></p>
+
+
+
+<h4 class="wp-block-heading">Process</h4>
+
+
+
+<p>I established a strong foundation through wireframing and comprehensive color layout, and adopted a mobile-first approach, optimizing for desktop with media queries. I also incorporated embedded videos and audio clips to enhance the user experience, and I experimented with new CSS techniques to elevate the site’s aesthetics and usability.</p>
+
+
+
+<h4 class="wp-block-heading">Conclusion</h4>
+
+
+
+<p>This project showcases my commitment to mastering HTML and CSS best practices, adaptability in embracing new coding techniques, and dedication to delivering a user-friendly, professionally structured, and visually appealing website, marking a significant milestone in my web development journey.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenseling.github.io/last-frontiers-html-and-css/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>In Your Darkest Hour: 2D Platformer Game</title>
+		<link>https://lenseling.github.io/in-your-darkest-hour-2d-platformer-game/</link>
+					<comments>https://lenseling.github.io/in-your-darkest-hour-2d-platformer-game/#respond</comments>
+		
+		<dc:creator><![CDATA[liliyang]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 13:47:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://lenseling.github.io/?p=148</guid>
+
+					<description><![CDATA[Introduction In my first attempt at game development, I teamed up with fellow members of UNC’s Game Development club to create this 2D platforming adventure. In this perilous world brimming with challenges, gather acorns to save your furry companion and harness the ‘Double Take’ time travel ability, enabling a strategic rewind of your actions by [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">Introduction</h4>
+
+
+
+<p>In my first attempt at game development, I teamed up with fellow members of UNC’s Game Development club to create this 2D platforming adventure. In this perilous world brimming with challenges, gather acorns to save your furry companion and harness the ‘Double Take’ time travel ability, enabling a strategic rewind of your actions by five seconds. I created this game using Godot 4 and pixel art created with Aseprite.</p>
+
+
+
+<p><a href="https://doowop.itch.io/in-your-darkest-hour">itch.io page</a></p>
+
+
+
+<h4 class="wp-block-heading">About</h4>
+
+
+
+<p>“In Your Darkest Hour” is a 2D platformer game that embarks players on a daring adventure to rescue a squirrel in danger. Navigate a perilous world filled with obstacles while collecting acorns to save your furry friend. Be sure to use your “Double Take” time travel ability, allowing you to rewind your position by five seconds. Use this unique power strategically to be the squirrel’s hero.&nbsp;</p>
+
+
+
+<p><strong>Can you master time and courage to save the squirrel?</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenseling.github.io/in-your-darkest-hour-2d-platformer-game/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pear: Professional Networking Platform</title>
+		<link>https://lenseling.github.io/pear-professional-networking-platform/</link>
+					<comments>https://lenseling.github.io/pear-professional-networking-platform/#respond</comments>
+		
+		<dc:creator><![CDATA[liliyang]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 13:46:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://lenseling.github.io/?p=145</guid>
+
+					<description><![CDATA[Introduction I built this site with my team during Pearl Hacks 2022. Inspired by the challenges of COVID-19, our team developed ‘Pear,’ a dynamic virtual platform designed to foster connections in the tech community. Pear is a pressure-free space that matches individuals with shared interests, connecting students to startups and facilitating collaborative project endeavors. Awards: [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">Introduction</h4>
+
+
+
+<p>I built this site with my team during Pearl Hacks 2022. Inspired by the challenges of COVID-19, our team developed ‘Pear,’ a dynamic virtual platform designed to foster connections in the tech community. Pear is a pressure-free space that matches individuals with shared interests, connecting students to startups and facilitating collaborative project endeavors.</p>
+
+
+
+<p>Awards: MLH: “Most Creative Use of GitHub”</p>
+
+
+
+<p><a href="https://devpost.com/software/pear-0x2c7l">Devpost Overview</a></p>
+
+
+
+<h4 class="wp-block-heading">Inspiration</h4>
+
+
+
+<p>COVID-19 has made it significantly harder to create connections with our peers, especially in an educational or professional setting. With this in mind, we created Pear as a way for those individuals to connect in a pressure-free virtual space, optimal for all users from students to startups. Popular and easy-to-use dating apps such as Tinder and Bumble inspired us to create a virtual platform for the tech community to come together and find people to work on projects together, whether it be for hackathons or for fun!</p>
+
+
+
+<h4 class="wp-block-heading">What it does</h4>
+
+
+
+<p>Have you ever had an idea for a project, but found it challenging to find other interested team members? Using Pear, when a user simply signs up and inputs relevant information about themselves, the website will match the user to other similar users. People are able to view other people’s profiles, and look at ongoing and new projects created by the community.</p>
+
+
+
+<h4 class="wp-block-heading">How we built it</h4>
+
+
+
+<p>We used HTML, CSS, and Javascript to build our web application. Pear has a user sign-in page and register page to allow users to sign in or if they’re new, sign-up. The matches page displays all of the other users that match the user’s specified tags.</p>
+
+
+
+<h4 class="wp-block-heading">Challenges we ran into</h4>
+
+
+
+<p>Collaboration in GitHub was new to us, so it gave us some issues, especially during times where we needed to merge code. We also struggled with creating a user-database that would store the all users. For the website layout, there were also challenges and a lot of trial and error.</p>
+
+
+
+<h4 class="wp-block-heading">Accomplishments that we’re proud of</h4>
+
+
+
+<p>Pear turned out very visually appealing, which we think will be beneficial to gaining users. Everyone loves a good looking and easy to use interface!</p>
+
+
+
+<h4 class="wp-block-heading">What we learned</h4>
+
+
+
+<p>A lot of effort is put into making things look good, and even small things can cause major issues. Design is incredibly important to both the users and the creators, and can be quite complicated. We became more familiar with using HTML and CSS to format our site.</p>
+
+
+
+<h4 class="wp-block-heading">What’s next for Pear</h4>
+
+
+
+<p>In the future, we plan to, first of all, improve the functionality. We also want to add a projects tab for users to view upcoming projects and a customizable profile page. We would love to also implement a friends tab where you could message your matches, and a rewards system to incentivize users to message others and be active.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenseling.github.io/pear-professional-networking-platform/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PocketLoot: Gamer’s Guide to Finance</title>
+		<link>https://lenseling.github.io/pocketloot/</link>
+					<comments>https://lenseling.github.io/pocketloot/#respond</comments>
+		
+		<dc:creator><![CDATA[liliyang]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 13:44:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://lenseling.github.io/?p=143</guid>
+
+					<description><![CDATA[Introduction I made this project with a team for the Pearl Hacks 2023 hackathon hosted at UNC Chapel Hill. This web app empowers gamers to manage their spending by tracking expenses and playtime per game while providing budgeting tools. I used JavaScript and Velo to build PocketLoot. Awards: Best Domain Name from Domain.com Devpost Overview [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">Introduction</h4>
+
+
+
+<p>I made this project with a team for the Pearl Hacks 2023 hackathon hosted at UNC Chapel Hill. This web app empowers gamers to manage their spending by tracking expenses and playtime per game while providing budgeting tools. I used JavaScript and Velo to build PocketLoot.</p>
+
+
+
+<p>Awards: Best Domain Name from Domain.com</p>
+
+
+
+<p><a href="https://devpost.com/software/pocketloot">Devpost Overview</a></p>
+
+
+
+<h4 class="wp-block-heading">Inspiration</h4>
+
+
+
+<p>Nowadays, plenty of games on the market find themselves utilizing the “free to play” model. However, most games aren’t very wallet-friendly after all with the secretly embedded microtransactions and add-ons to purchase. We wanted to create a web app for gamers to budget their spending on such games, and become more mindful of their finances.</p>
+
+
+
+<h4 class="wp-block-heading">What it does</h4>
+
+
+
+<p>Pocketloot keeps track of the amount of money that is spent per game, and how much time is spent per game. It also allows users to view a summary chart of all their finances. Users are able to create a budget to help them stay within spending limits.</p>
+
+
+
+<h4 class="wp-block-heading">How we built it</h4>
+
+
+
+<p>We utilized Javascript along with Velo to create the framework of website, and Canva was used to create the graphics such as the logo. The domain name is from domain.com.</p>
+
+
+
+<h4 class="wp-block-heading">Challenges we ran into</h4>
+
+
+
+<p>Trying to figure out how to work on the project at the same time was a tough challenge as Velo did not allow us to simultaneously edit. We also had to learn how to use the Velo interface and read through tons of documentation as none of us had used Velo before. A particular issue we struggled with was implementing a chart — we were unable to access the user-generated data from the site itself and utilize it towards the embedded HTML elements.</p>
+
+
+
+<h4 class="wp-block-heading">Accomplishments that we’re proud of</h4>
+
+
+
+<p>We are very proud of the design and overall look of the website that we created. We feel that the interface is intuitive and user-friendly.</p>
+
+
+
+<h4 class="wp-block-heading">What we learned</h4>
+
+
+
+<p>Trying to use new technology to finish a project in such a limited time is quite difficult. Also, there are many working parts of a website to consider when designing for usability but also aesthetics.</p>
+
+
+
+<h4 class="wp-block-heading">What’s next for PocketLoot</h4>
+
+
+
+<p>We want to expand the game choices, as well as provide more customizable elements. One element we are looking to work on is the addition of charts for our summary page.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenseling.github.io/pocketloot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UI/UX Design for a Fashion Article</title>
+		<link>https://lenseling.github.io/ui-ux-design-for-a-fashion-article/</link>
+					<comments>https://lenseling.github.io/ui-ux-design-for-a-fashion-article/#respond</comments>
+		
+		<dc:creator><![CDATA[liliyang]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 13:44:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://lenseling.github.io/?p=141</guid>
+
+					<description><![CDATA[Introduction In this project, I collaborated with AI to create a website focusing on one of five specified topics. The website included a 500-word article, multimedia elements such as images, audio, and video, and featured at least one interactive component. Figma Prototype – Web Figma Prototype – Mobile Target Audience My target audience for the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">Introduction</h4>
+
+
+
+<p>In this project, I collaborated with AI to create a website focusing on one of five specified topics. The website included a 500-word article, multimedia elements such as images, audio, and video, and featured at least one interactive component.</p>
+
+
+
+<p><a href="https://www.figma.com/proto/7Hmb6vLz3NQUFJkodOJWDL/enseling_lili_p1?page-id=1709%3A757&amp;type=design&amp;node-id=1762-343&amp;viewport=47%2C228%2C0.31&amp;t=JjChW1OJ6pfALRLc-1&amp;scaling=contain&amp;starting-point-node-id=1762%3A343&amp;mode=design">Figma Prototype – Web</a></p>
+
+
+
+<p><a href="https://www.figma.com/proto/7Hmb6vLz3NQUFJkodOJWDL/enseling_lili_p1?page-id=1762%3A205&amp;type=design&amp;node-id=1762-206&amp;viewport=612%2C253%2C0.44&amp;t=R5nKSrOT4f5kZVaI-1&amp;scaling=scale-down&amp;starting-point-node-id=1762%3A206&amp;mode=design">Figma Prototype – Mobile</a></p>
+
+
+
+<h4 class="wp-block-heading">Target Audience</h4>
+
+
+
+<p>My target audience for the website is primarily teenage to middle-aged women interested in women’s fashion and fashion history. These include fashion enthusiasts, trend-followers, and those with an appreciation for the evolution of women’s fashion over time. To captivate my audience effectively, the web design focuses on a sleek, simple user interface that places a strong emphasis on images and key quotes. Bold and striking visuals relating to fashion will be prominently featured to engage the audience’s sense of style and aesthetics. Considering the demographic of my audience, the website will be designed to be mobile-friendly as the primary access point, however desktop should also be accessible.&nbsp;</p>
+
+
+
+<p>The competition primarily includes other online fashion journals, magazines, and blogs that cater to fashion enthusiasts. The website design will aim to stand out through its minimalist yet striking visual style and unique interactive features.</p>
+
+
+
+<h4 class="wp-block-heading">Design</h4>
+
+
+
+<p>The design aligns with the themes of innovation and modernization of fashion. Minimalism will be the central design philosophy, as it not only reflects current fashion trends but also allows the content and photography to shine. The title and quotation fonts are a serif font, reminiscent of a fashion magazine cover, with key words emphasized by color differences. The chosen AI-generated centerpiece is a graphic representation of women in the fashion industry. Its contemporary style aligns with the theme of innovation, and the subject resembles current fashion trends.&nbsp;</p>
+
+
+
+<p>The interactive timeline is a key feature that serves to enhance the storytelling experience. It allows users to visualize the chronological order of the main impacts of the women featured in the article, as well as the visual differences in styles from the photographs. This feature helps users understand the evolution of fashion over time and appreciate the contributions of these remarkable women in a more engaging and informative way.</p>
+
+
+
+<h4 class="wp-block-heading">Conclusion</h4>
+
+
+
+<p>In summary, the web design for the “Four Trailblazing Women in the World of Fashion” article is tailored to its audience’s interests and preferences, featuring a sleek and mobile-friendly interface, bold visuals, minimalist design, and interactive elements that aid in storytelling and understanding the evolution of fashion.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenseling.github.io/ui-ux-design-for-a-fashion-article/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quickly Site Redesign</title>
+		<link>https://lenseling.github.io/quickly/</link>
+					<comments>https://lenseling.github.io/quickly/#comments</comments>
+		
+		<dc:creator><![CDATA[liliyang]]></dc:creator>
+		<pubDate>Sat, 28 Oct 2023 03:09:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://lenseling.github.io/?p=1</guid>
+
+					<description><![CDATA[Introduction In this project, I recreated an existing website in Figma, addressing key pain points and making at least three design improvements. I provided two views of the site, allowing navigation between them using prototyping, and included both mobile and desktop versions for a comprehensive redesign. Changes The main changes are: In this project, I [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">Introduction</h4>
+
+
+
+<p>In this project, I recreated an <a href="https://www.quicklychapelhill.com/">existing website</a> in Figma, addressing key pain points and making at least three design improvements. I provided two views of the site, allowing navigation between them using prototyping, and included both mobile and desktop versions for a comprehensive redesign.</p>
+
+
+
+<h4 class="wp-block-heading">Changes</h4>
+
+
+
+<p>The main changes are:</p>
+
+
+
+<ul>
+<li>Removed carousel, changed it into a still background with text overlay</li>
+
+
+
+<li>Added boxes to menu items to add color contrast</li>
+
+
+
+<li>Moved button from Specials page to home page</li>
+
+
+
+<li>Used actual text for the specials rather than an image for accessibility</li>
+
+
+
+<li>Added black stroke to text for better contrast</li>
+</ul>
+
+
+
+<p>In this project, I recreated an <a href="https://www.quicklychapelhill.com/">existing website</a> in Figma, addressing key pain points and making at least three design improvements. </p>
+
+
+
+<p>I provided two views of the site, allowing navigation between them using prototyping, and included both mobile and desktop versions for a comprehensive redesign.</p>
+
+
+
+<p>The main changes are:</p>
+
+
+
+<ul>
+<li>Removed carousel, changed it into a still background with text overlay</li>
+
+
+
+<li>Added boxes to menu items to add color contrast</li>
+
+
+
+<li>Moved button from Specials page to home page</li>
+
+
+
+<li>Used actual text for the specials rather than an image for accessibility</li>
+
+
+
+<li>Added black stroke to text for better contrast</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenseling.github.io/quickly/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
