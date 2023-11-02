@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hackathon &#8211; lili enseling</title>
+	<atom:link href="https://lenseling.github.io/project-type/hackathon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lenseling.github.io/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Nov 2023 03:53:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>PocketLoot: A Gamer&#8217;s Guide to Finance</title>
+		<link>https://lenseling.github.io/portfolio/pocketloot/</link>
+					<comments>https://lenseling.github.io/portfolio/pocketloot/#respond</comments>
+		
+		<dc:creator><![CDATA[liliyang]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 03:50:08 +0000</pubDate>
+				<guid isPermaLink="false">https://lenseling.github.io/?post_type=jetpack-portfolio#038;p=67</guid>
+
+					<description><![CDATA[Introduction I made this project with a team for the Pearl Hacks 2023 hackathon hosted at UNC Chapel Hill. This web app empowers gamers to manage their spending by tracking expenses and playtime per game while providing budgeting tools. I used JavaScript and Velo to build PocketLoot. Awards: Best Domain Name from Domain.com Devpost Overview [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">Introduction</h4>
+
+
+
+<p>I made this project with a team for the Pearl Hacks 2023 hackathon hosted at UNC Chapel Hill. This web app empowers gamers to manage their spending by tracking expenses and playtime per game while providing budgeting tools. I used JavaScript and Velo to build PocketLoot. </p>
+
+
+
+<p>Awards: Best Domain Name from Domain.com</p>
+
+
+
+<p class="has-text-align-center"><a href="https://devpost.com/software/pocketloot" data-type="link" data-id="https://devpost.com/software/pocketloot">Devpost Overview</a></p>
+
+
+
+<h4 class="wp-block-heading">Inspiration</h4>
+
+
+
+<p>Nowadays, plenty of games on the market find themselves utilizing the &#8220;free to play&#8221; model. However, most games aren&#8217;t very wallet-friendly after all with the secretly embedded microtransactions and add-ons to purchase. We wanted to create a web app for gamers to budget their spending on such games, and become more mindful of their finances.</p>
+
+
+
+<h4 class="wp-block-heading">What it does</h4>
+
+
+
+<p>Pocketloot keeps track of the amount of money that is spent per game, and how much time is spent per game. It also allows users to view a summary chart of all their finances. Users are able to create a budget to help them stay within spending limits.</p>
+
+
+
+<h4 class="wp-block-heading">How we built it</h4>
+
+
+
+<p>We utilized Javascript along with Velo to create the framework of website, and Canva was used to create the graphics such as the logo. The domain name is from domain.com.</p>
+
+
+
+<h4 class="wp-block-heading">Challenges we ran into</h4>
+
+
+
+<p>Trying to figure out how to work on the project at the same time was a tough challenge as Velo did not allow us to simultaneously edit. We also had to learn how to use the Velo interface and read through tons of documentation as none of us had used Velo before. A particular issue we struggled with was implementing a chart &#8212; we were unable to access the user-generated data from the site itself and utilize it towards the embedded HTML elements.</p>
+
+
+
+<h4 class="wp-block-heading">Accomplishments that we&#8217;re proud of</h4>
+
+
+
+<p>We are very proud of the design and overall look of the website that we created. We feel that the interface is intuitive and user-friendly.</p>
+
+
+
+<h4 class="wp-block-heading">What we learned</h4>
+
+
+
+<p>Trying to use new technology to finish a project in such a limited time is quite difficult. Also, there are many working parts of a website to consider when designing for usability but also aesthetics.</p>
+
+
+
+<h4 class="wp-block-heading">What&#8217;s next for PocketLoot</h4>
+
+
+
+<p>We want to expand the game choices, as well as provide more customizable elements. One element we are looking to work on is the addition of charts for our summary page.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenseling.github.io/portfolio/pocketloot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
